@@ -1,6 +1,6 @@
 {
    "name": "node-app",
-   "description": "Hello jenkins test app",
+   "description": "Hello jenkins test App",
    "version": "0.0.1",
    "private": true,
    "dependencies": {
